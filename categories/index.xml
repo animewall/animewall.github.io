@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on animewall.my.id</title>
-    <link>https://animewall.my.id/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on animewall.my.id</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://animewall.my.id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accel World</title>
-      <link>https://animewall.my.id/categories/accel-world/</link>
+      <link>http://localhost:1313/categories/accel-world/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://animewall.my.id/categories/accel-world/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/categories/accel-world/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Hololive</title>
-      <link>https://animewall.my.id/categories/hololive/</link>
+      <link>http://localhost:1313/categories/hololive/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://animewall.my.id/categories/hololive/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/categories/hololive/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

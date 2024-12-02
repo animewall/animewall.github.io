@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://animewall.my.id/accel-world/</loc>
+    <loc>http://localhost:1313/accel-world/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://animewall.my.id/hololive/</loc>
+    <loc>http://localhost:1313/hololive/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://animewall.my.id/categories/accel-world/</loc>
+    <loc>http://localhost:1313/categories/accel-world/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://animewall.my.id/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://animewall.my.id/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://animewall.my.id/categories/hololive/</loc>
+    <loc>http://localhost:1313/categories/hololive/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://animewall.my.id/hololive/kobo-kanaeru/</loc>
+    <loc>http://localhost:1313/hololive/kobo-kanaeru/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://animewall.my.id/accel-world/kuroyukihime/</loc>
+    <loc>http://localhost:1313/accel-world/kuroyukihime/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://animewall.my.id/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://animewall.my.id/imprint/</loc>
+    <loc>http://localhost:1313/imprint/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://animewall.my.id/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
